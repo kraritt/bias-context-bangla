@@ -1,1 +1,1 @@
-This is the initial repository for the work bangla bias context.
+This is the initial repository for the work context bias bangla.
